@@ -8,4 +8,4 @@ spec:
       uri: "https://github.com/openpabz/pf-pipeline"
   strategy:
     jenkinsPipelineStrategy:
-      jenkinsfilePath: pipeline/pfpipeline.jenkins 
+      jenkinsfilePath: pipeline/Jenkinsfile 
